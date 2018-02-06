@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyImageButton">
+        <attr name="xTrans" format="dimension" />
+        <attr name="yTrans" format="dimension" />
+        <attr name="leftX" format="boolean" />
+        <attr name="beyondY" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="CircleViewWidget">
+        <attr name="car_angle" format="integer" />
+        <attr name="circle_x" format="dimension"/>
+        <attr name="circle_y" format="dimension" />
+    </declare-styleable>
+</resources>
